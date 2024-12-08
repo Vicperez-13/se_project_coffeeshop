@@ -1,4 +1,10 @@
 .menu {
   background-image: url(../images/se_project_2_files/background_menu.svg);
-  color: #0a2850;
+  background-color: #0a2850;
+  color: #fff;
+  position: relative;
+  background-size: cover;
+  padding: 100px 0;
+}
+.menu__title {
 }
