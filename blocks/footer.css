@@ -38,6 +38,11 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  transition: opacity 0.5s;
+}
+.footer__social-link:hover {
+  opacity: 70%;
+  color: #3f96f3;
 }
 .footer__copyright {
   margin: 108px 0 0;
