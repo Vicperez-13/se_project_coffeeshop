@@ -30,6 +30,8 @@
   gap: 40px;
   list-style-type: none;
   border: none;
+  margin: 0;
+  padding: 0;
 }
 
 .recipes__video-caption {
@@ -39,4 +41,10 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
+}
+.recipes__iframe {
+  width: 400px;
+  height: 273px;
+  border: none;
 }
